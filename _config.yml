@@ -1,0 +1,15 @@
+# Site settings
+title: Arthur Borem
+tag_text: Arthur Borem
+description: Arthur Borem is a final-year CS PhD at UChicago studying privacy and data subject rights.
+# baseurl: "/blog" # the subpath of your site, e.g. /blog
+url: "https://arthurborem.com"
+
+plugins:
+  - jekyll-seo-tag
+
+# Build settings
+markdown: kramdown
+exclude: ["README.md"]
+sass:
+  style: compressed
