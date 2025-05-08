@@ -2,8 +2,6 @@
 layout: default
 ---
 
-<!-- ![Banner](assets/biscuit.png) -->
-
 # Arthur Borem
 
 ![Arthur's face](assets/headshot.png){: style="float: right" height="35%" width="35%"} Hi! I'm a final-year Computer Science PhD at UChicago in the field of security and privacy with my advisor, [Blase Ur](https://www.blaseur.com/). I've spent my time here studying tools for data subject request compliance and building tech to support that process for consumers from around the world, but have also worked on other projects about online transparency and privacy ([check them out](#some-research-projects)!). For more on my background, see [my full bio](#bio).
