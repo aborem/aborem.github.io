@@ -6,13 +6,16 @@ layout: default
 
 # Arthur Borem
 
-![Arthur's face](assets/headshot.png){: style="float: right" height="35%" width="35%"} Hi! I'm a final-year Computer Science PhD at UChicago. I've spent my time here mainly studying tools for data subject request compliance and building tech to support that process for consumers from around the world, but have also worked on other projects about online transparency and privacy ([check them out](#some-research-projects)!). For more on my background, see [my full bio](#bio).
+![Arthur's face](assets/headshot.png){: style="float: right" height="35%" width="35%"} Hi! I'm a final-year Computer Science PhD at UChicago in the field of security and privacy with my advisor, [Blase Ur](https://www.blaseur.com/). I've spent my time here studying tools for data subject request compliance and building tech to support that process for consumers from around the world, but have also worked on other projects about online transparency and privacy ([check them out](#some-research-projects)!). For more on my background, see [my full bio](#bio).
 
-I'm open to internships any time until the end of 2025 and open to full-time engineering and research roles starting Summer 2026!
+In addition to being a researcher, I've also been a software engineer at Asana, Lyft, and Merrill Lynch.
 
 Reach out via [arthurborem at uchicago.edu](mailto:arthurborem@uchicago.edu).
 
 [Resume](assets/arthur_borem_resume.pdf), [Google Scholar](https://scholar.google.com/citations?hl=en&user=vuka1CgAAAAJ), [x.com/arthurborem](https://twitter.com/arthurborem), [LinkedIn](https://linkedin.com/in/arthurborem)
+
+| **Employment**: I'm open to internships any time until the end of 2025 and open to full-time engineering and/or research roles starting spring 2026!
+
 
 
 ## Publications
