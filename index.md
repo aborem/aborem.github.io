@@ -12,7 +12,7 @@ Reach out via [arthurborem at uchicago.edu](mailto:arthurborem@uchicago.edu).
 
 [Resume](assets/arthur_borem_resume.pdf), [Google Scholar](https://scholar.google.com/citations?hl=en&user=vuka1CgAAAAJ), [x.com/arthurborem](https://twitter.com/arthurborem), [LinkedIn](https://linkedin.com/in/arthurborem)
 
-| **Employment**: I'm open to internships any time until the end of 2025 and open to full-time engineering and/or research roles starting spring 2026!
+| **Employment**: I'm open to internships any time until the end of 2025 and open to full-time engineering, data science, and/or research roles starting spring 2026!
 
 
 
