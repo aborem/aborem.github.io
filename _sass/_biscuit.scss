@@ -56,7 +56,7 @@ h1 a {
   color: inherit;
 }
 
-@media(max-width: 440px) {
+@media (pointer:none), (pointer:coarse) {
   body {
     margin-top: 1rem;
   }
