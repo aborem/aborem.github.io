@@ -5,8 +5,8 @@ body {
   background-color: #f9f9f9;
   color: #6886c5;
   display: flex;
-  justify-content: center;
   line-height: 22px;
+  justify-content: center;
 }
 
 .container {
@@ -68,6 +68,7 @@ table {
 h2 {
   color: #6886c5;
   font-size: 30px;
+  line-height: initial;
 }
 
 .publications h3,
