@@ -1,0 +1,85 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: "Roboto", sans-serif;
+  background-color: #f9f9f9;
+  color: #6886c5;
+  display: flex;
+  justify-content: center;
+  line-height: 22px;
+}
+
+.container {
+  max-width: 45vw;
+  margin: 48px 0;
+}
+
+/* media queries */
+@media (max-width: 1200px) {
+  .container {
+    margin-top: 24px;
+    max-width: 65vw;
+  }
+}
+
+@media (max-width: 650px) {
+  .container {
+    margin-top: 24px;
+    max-width: 85vw;
+  }
+}
+
+h1 {
+  font-size: 36px;
+}
+
+.headshot {
+  float: right;
+  height: 30%;
+  width: 30%;
+  max-width: 250px;
+  max-height: 250px;
+  margin-left: 6px;
+}
+
+hr {
+  margin: 24px 0;
+  height: 1px;
+  border: none;
+  background-color: #6886c5;
+}
+
+a {
+  color: #4a72c9;
+  text-decoration: underline;
+}
+
+a:hover {
+  color: #a368c5;
+}
+
+table {
+  background-color: #f2f7ff;
+  padding: 12px;
+  border: 1px solid #d6e7ff;
+  border-radius: 12px;
+}
+
+h2 {
+  color: #6886c5;
+  font-size: 30px;
+}
+
+.publications h3,
+.talks h3 {
+  font-size: 18px;
+  margin-bottom: 0px;
+  font-weight: 500;
+}
+
+.publications p,
+.talks p {
+  font-weight: 300;
+  margin-top: 6px;
+  margin-bottom: 18px;
+}
