@@ -79,7 +79,8 @@ h2 {
 
 .publications h3,
 .talks h3,
-.teaching h3 {
+.teaching h3,
+.work h3 {
   margin-bottom: 0px;
   font-size: 18px;
   font-weight: 500;
@@ -87,7 +88,8 @@ h2 {
 
 .publications p,
 .talks p,
-.teaching p {
+.teaching p,
+.work p {
   font-weight: 300;
   margin-top: 6px;
   margin-bottom: 18px;

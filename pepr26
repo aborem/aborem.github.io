@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta http-equiv="refresh" content="0; url=/assets/portability-pepr26.pdf" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Redirecting</title>
+    <script>
+      window.location.replace('/assets/portability-pepr2026.pdf');
+    </script>
+  </head>
+  <body>
+    <p>
+      Redirecting to <a href="/assets/portability-pepr2026.pdf">the PEPR 2026 slides</a>.
+    </p>
+  </body>
+</html>
